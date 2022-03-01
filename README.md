@@ -9,4 +9,6 @@ https://simzim.github.io/Responsive-HTML-Newsletter/
 - css
 
 ### 3. Responsive Email newsletter screenshot:
-![screencapture](https://user-images.githubusercontent.com/38910059/156239459-5b071c2c-0f82-4b13-9a4e-3cc3b05b10bd.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38910059/156239459-5b071c2c-0f82-4b13-9a4e-3cc3b05b10bd.jpg" />
+</p>
