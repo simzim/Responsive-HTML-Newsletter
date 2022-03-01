@@ -2,6 +2,7 @@
 responsive HTML email newsletter
 
 ### 1. Link to deployed project
+https://simzim.github.io/Responsive-HTML-Newsletter/
 
 ### 2. Used technologies
 - html
